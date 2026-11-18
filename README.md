@@ -1,9 +1,9 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Lyhorng%20Heng&fontSize=45&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20in%20Progress&descAlignY=60&descSize=18" width="100%"/>
 
-### Hey, I'm Lyhorng 👋
+### Hi, I'm Lyhorng 👋
 
 💻 Computer Science Student  
 🚀 Building software, AI agents & developer tools  
@@ -24,7 +24,6 @@
 - 💡 Interested in Software Engineering and Applied AI
 - 🤖 Exploring AI agents and intelligent applications
 - 🌐 Building full-stack applications
-- 🔐 Interested in security and building safer software
 - 🛠️ Learning by creating real-world projects
 
 ---
@@ -117,4 +116,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
-```
+
